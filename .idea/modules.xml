@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CircularImageview.iml" filepath="$PROJECT_DIR$/CircularImageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircularImageview-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircularImageview-app.iml" group="CircularImageview/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bhenning-CircularImageview.iml" filepath="$PROJECT_DIR$/.idea/modules/bhenning-CircularImageview.iml" group="CircularImageview" />
       <module fileurl="file://$PROJECT_DIR$/circularimageview/circularimageview.iml" filepath="$PROJECT_DIR$/circularimageview/circularimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circularimageview/com.jackandphantom.android-circularimageview.iml" filepath="$PROJECT_DIR$/.idea/modules/circularimageview/com.jackandphantom.android-circularimageview.iml" group="CircularImageview/circularimageview" />
     </modules>
   </component>
 </project>
